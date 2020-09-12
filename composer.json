@@ -1,0 +1,9 @@
+{
+    "name": "hcs/php-pdo",
+    "description": "Aprendiendo lo basico de PDO",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
